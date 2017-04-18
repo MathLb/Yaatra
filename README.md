@@ -1,2 +1,2 @@
 # Yaatra
-Roaming around the workd
+Roaming around the world
